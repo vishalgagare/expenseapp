@@ -1,0 +1,20 @@
+.expenses-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .expenses-list__fallback {
+    color: white;
+    text-align: center;
+  }
+
+  .expenses-list button {
+    font: inherit;
+    cursor: pointer;
+    /* padding: 1rem 2rem; */
+    border: 1px solid #fff;
+    background-color: #40005d;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }
